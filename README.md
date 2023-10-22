@@ -1,5 +1,5 @@
 <h1>LeetCode Questions</h1>
 
-<p>Esse respositório foi criado para reunir as resoluções de todos as questões do site lieetcod. Todas as respostas aqui inseridas foram aceitas como resolução no site, e resolvidas por mim.</p>
+<p>Esse respositório foi criado para reunir as resoluções de todos as questões, resolvidas por mim, do site [LeetCode](https://leetcode.com/). Todas as respostas aqui inseridas foram aceitas na correção do site.</p>
 
-[LeetCode](https://leetcode.com/)
+
